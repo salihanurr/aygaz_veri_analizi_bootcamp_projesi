@@ -40,3 +40,5 @@ Veri seti toplamda **10 sütun** ve **800 iş ilanı** içermektedir. 'job_level
   Veri Bilimi alanında, iş ilanları ve gereken beceriler hakkında yapılan bu analiz, veri bilimcilerin hangi becerilere sahip olmaları gerektiği ve hangi seviyede iş ilanlarının yoğunlukla yayımlandığı hakkında önemli bilgiler sunmaktadır. Veri setindeki dengesiz dağılımlar ve eksik veri setlerinden ötürü, daha fazla jenerasyon ve veri ekleyerek modelin doğruluğu artırılabilir.
 
   Bu çalışma, iş gücü pazarındaki eğilimleri analiz etmek ve iş arayanlar için stratejik kararlar almak açısından faydalı olabilecek bir temel oluşturur.
+
+  Saliha Nur Çelik
