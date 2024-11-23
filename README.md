@@ -1,8 +1,8 @@
 # aygaz_veri_analizi_bootcamp_projesi
 
-Veri Bilimi LinkedIn İş İlanları Veri Seti: Analiz ve Bulgular
+  Veri Bilimi LinkedIn İş İlanları Veri Seti: Analiz ve Bulgular
 
-Bu veri seti, LinkedIn üzerinden toplanan ve Veri Bilimi alanındaki iş ilanlarını içeren önemli bir kaynaktır. İlanlar; iş unvanları, şirket isimleri, iş yerleri, iş bağlantıları, ilanların ilk görünüş tarihi, şehir ve ülke bilgileri, iş seviyeleri, iş türleri, iş özetleri ve gerekli iş becerileri gibi önemli bilgileri kapsamaktadır. Bu veri setine Kaggle üzerinden aşağıdaki bağlantıyı takip ederek erişebilirsiniz.
+  Bu veri seti, LinkedIn üzerinden toplanan ve Veri Bilimi alanındaki iş ilanlarını içeren önemli bir kaynaktır. İlanlar; iş unvanları, şirket isimleri, iş yerleri, iş bağlantıları, ilanların ilk görünüş tarihi, şehir ve ülke bilgileri, iş seviyeleri, iş türleri, iş özetleri ve gerekli iş becerileri gibi önemli bilgileri kapsamaktadır. Bu veri setine Kaggle üzerinden aşağıdaki bağlantıyı takip ederek erişebilirsiniz.
 
 Veri Bilimi LinkedIn İş İlanları Veri Seti: https://www.kaggle.com/code/salihanur/proje2
 ### Değişkenler
@@ -33,10 +33,10 @@ Veri seti toplamda **10 sütun** ve **800 iş ilanı** içermektedir. 'job_level
 - **Şirket ve Konum Dağılımı**: Çoğu iş ilanı **ABD**'de yer almaktadır ve büyük teknoloji şirketlerinden çoğu pozisyonu açmaktadır.
   
 ### Modelleme ve Performans:
-Veri setinde yapılan analizlere ek olarak, **makine öğrenimi modelleri** kurarak iş ilanlarını sınıflandırmak için denemeler yapılmıştır. Bu modellerde:
-- **Doğruluk oranı** genel olarak **%95** seviyelerinde olmuştur, ancak efsanevi Pokémonları tespit etme konusunda modellenmiş veri setine göre **%50** civarında bir doğruluk elde edilmiştir. Bu düşük başarı, veri setindeki büyük dengesizlikten kaynaklanmış olabilir.
+  Veri setinde yapılan analizlere ek olarak, **makine öğrenimi modelleri** kurarak iş ilanlarını sınıflandırmak için denemeler yapılmıştır. Bu modellerde:
+- **Doğruluk oranı** genel olarak **%95** seviyelerinde olmuştur.
 
 ### Sonuç ve Öneriler:
-Veri Bilimi alanında, iş ilanları ve gereken beceriler hakkında yapılan bu analiz, veri bilimcilerin hangi becerilere sahip olmaları gerektiği ve hangi seviyede iş ilanlarının yoğunlukla yayımlandığı hakkında önemli bilgiler sunmaktadır. Veri setindeki dengesiz dağılımlar ve eksik veri setlerinden ötürü, daha fazla jenerasyon ve veri ekleyerek modelin doğruluğu artırılabilir.
+  Veri Bilimi alanında, iş ilanları ve gereken beceriler hakkında yapılan bu analiz, veri bilimcilerin hangi becerilere sahip olmaları gerektiği ve hangi seviyede iş ilanlarının yoğunlukla yayımlandığı hakkında önemli bilgiler sunmaktadır. Veri setindeki dengesiz dağılımlar ve eksik veri setlerinden ötürü, daha fazla jenerasyon ve veri ekleyerek modelin doğruluğu artırılabilir.
 
-Bu çalışma, iş gücü pazarındaki eğilimleri analiz etmek ve iş arayanlar için stratejik kararlar almak açısından faydalı olabilecek bir temel oluşturur.
+  Bu çalışma, iş gücü pazarındaki eğilimleri analiz etmek ve iş arayanlar için stratejik kararlar almak açısından faydalı olabilecek bir temel oluşturur.
